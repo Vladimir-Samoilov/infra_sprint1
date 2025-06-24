@@ -1,0 +1,5 @@
+IP: 51.250.111.176;
+name_taski: https://mytaski.sytes.net;
+name_kittygram: https://bestkittygram.sytes.net;
+login: yc-user;
+password: JlOv3bJ-5z;
